@@ -1,5 +1,10 @@
 test pullRequ 1
 
 test 2
+<<<<<<< HEAD
 
 test 3
+=======
+test 3
+test 4
+>>>>>>> front
